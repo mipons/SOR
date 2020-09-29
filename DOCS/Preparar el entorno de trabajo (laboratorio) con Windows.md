@@ -12,10 +12,10 @@ Windows Server 2016: 6,5GB
 Windows 10 Enterprise
 # Precios y licencias #
 ## ¿Dónde se pueden ver precios y licencias?
-[](https://www.microsoft.com/es-es/store/collections/windowsserver)
+[ENLACE](https://www.microsoft.com/es-es/store/collections/windowsserver)
 ## ¿Cuantos Windows Server se pueden instalar con una licencia?
-
+50 dispositivos
 ## ¿Cuantos usuarios se pueden registrar en WS16 Essentials?
-un maxsimo de  usuarios.
+un maxsimo de 25 usuarios.
 ## ¿Que windows server instalariamos si necesitamos almacenar muchos datos?
 windowws servever 2016 Datacenter
