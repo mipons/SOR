@@ -7,14 +7,15 @@ WIndows 10: 90 dias
 Descarga Windows Server 2016
 Descarga Windows 10 Enterprise
 ## ¿Cuantos GB pesa cada uno de los SO anteriores? ##
-Windows Server 2016:6,5GB
+Windows Server 2016: 6,5GB
 
 Windows 10 Enterprise
 # Precios y licencias #
-¿Dónde se pueden ver precios y licencias?
+## ¿Dónde se pueden ver precios y licencias?
+[](https://www.microsoft.com/es-es/store/collections/windowsserver)
+## ¿Cuantos Windows Server se pueden instalar con una licencia?
 
-¿Cuantos Windows Server se pueden instalar con una licencia?
-
-¿Cuantos usuarios se pueden registrar en WS16 Essentials?
-
-¿Que windows server instalariamos si necesitamos almacenar muchos datos?
+## ¿Cuantos usuarios se pueden registrar en WS16 Essentials?
+un maxsimo de  usuarios.
+## ¿Que windows server instalariamos si necesitamos almacenar muchos datos?
+windowws servever 2016 Datacenter
