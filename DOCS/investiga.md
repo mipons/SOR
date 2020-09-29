@@ -14,6 +14,11 @@ El software comercial es el software que es comercializado, pudiendo o no ser li
 * OpenSUSE
 * fedora
 # ULTIMAS VERSIONES #
-## Ubuntu##
+## UBUNTU ##
 Ubuntu 20.04.1 LTS
 ## WINDOWS ##
+windows 10 1903-OS
+## ANDROID ###
+Android 11
+## IOS ##
+ios 14.0.
