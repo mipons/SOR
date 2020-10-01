@@ -5,6 +5,7 @@ Windows server 2016: 180 dias
 WIndows 10: 90 dias
 ## ¿Desde que dirección se puede descargar Windows Server 2016? ##
 Descarga Windows Server 2016
+
 Descarga Windows 10 Enterprise
 ## ¿Cuantos GB pesa cada uno de los SO anteriores? ##
 Windows Server 2016: 6,5GB
